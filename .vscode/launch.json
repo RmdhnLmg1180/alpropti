@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Siakad",
+      "request": "launch",
+      "mainClass": "Siakad",
+      "projectName": "Projek_86e92f32"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": ""
+    }
+  ]
+}
